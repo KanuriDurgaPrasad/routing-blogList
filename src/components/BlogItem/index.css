@@ -1,0 +1,19 @@
+.blog-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+}
+
+.profile-logo {
+  height: 130px;
+}
+
+.profile-name {
+  font-size: 30px;
+}
+
+.profile-desc {
+  font-size: 18px;
+}
